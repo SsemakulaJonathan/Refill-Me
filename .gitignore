@@ -88,8 +88,7 @@ lint-results.xml
 # Screenshot folder
 Screenshots/
 
-# Scripts with hardcoded credentials
-check-database.js
+# Scripts
 test-backend.sh
 
 # Gradle distribution (only wrapper files are needed, not the full distribution)
