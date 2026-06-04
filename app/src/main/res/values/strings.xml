@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Refill Me</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="history">History</string>
+    <string name="statistics">Statistics</string>
+    <string name="add_refill">Add Refill</string>
+    <string name="add_vehicle">Add Vehicle</string>
+    <string name="vehicle_name">Vehicle Name</string>
+    <string name="vehicle_model">Model</string>
+    <string name="license_plate">License Plate</string>
+    <string name="tank_capacity">Tank Capacity (L)</string>
+    <string name="current_fuel">Current Fuel (L)</string>
+    <string name="refilled_amount">Refilled Amount (L)</string>
+    <string name="unit_price">Unit Price</string>
+    <string name="total_price">Total Price</string>
+    <string name="date">Date</string>
+    <string name="odometer">Odometer Reading</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="no_vehicles">No vehicles added yet</string>
+    <string name="no_refills">No refills recorded</string>
+</resources>

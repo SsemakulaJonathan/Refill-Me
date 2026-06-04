@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/api/auth/signup", "destination": "/api/auth/signup" },
+    { "source": "/api/auth/login", "destination": "/api/auth/login" },
+    { "source": "/api/auth/verify", "destination": "/api/auth/verify" },
+    { "source": "/api/personal-expense-categories", "destination": "/api/personal-expense-categories" },
+    { "source": "/api/personal-expenses", "destination": "/api/personal-expenses" },
+    { "source": "/api", "destination": "/api/index" }
+  ]
+}
